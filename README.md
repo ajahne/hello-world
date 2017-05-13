@@ -1,2 +1,2 @@
 # hello-world
-Hello World for the win! 
+Hello world for the win! 
